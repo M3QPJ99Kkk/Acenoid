@@ -6,7 +6,7 @@
 
 Powerful open-source ROBLOX exploit with triple API functionality, Including:
 
-<li>WeAreDevs API</li>
+<li>WeAreDevs API v2</li>
 <li>BloxSploits API</li>
 <li>EasyXploits API</li>
 
