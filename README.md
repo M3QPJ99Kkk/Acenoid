@@ -16,4 +16,4 @@ ROBLOX is an online virtual playground and workshop, where people of all ages ca
 <p align="left">
   <img src="https://www.lua.org/images/luaa.gif" title="">
 </p>
-[Lua Site](http://www.lua.org/ "Lua Programming Language Website")
+http://www.lua.org
