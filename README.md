@@ -8,7 +8,7 @@ Powerful open-source ROBLOX exploit with triple API functionality, using:
 
 <li><a href="https://wearedevs.net/d/Exploit%20APIv2">WeAreDevs API v2</a></li>
 <li><a href="https://mega.nz/#!D75jxYwC!uM4EFMjTHNEBiS5obwwfQiwG78e6--S3WQDxa2pYogw">Bloxsploits API</a></li>
-<li><a href="https://easyexploits.com/easyexploitsapi">EasyXploits API</a></li>
+<li><a href="https://easyexploits.com/?exploit=easyexploitsapi">EasyExploits API</a></li>
 
 # About Acenoid
 Acenoid is still in development. Currently, I only have a prototype, which you can see here:
