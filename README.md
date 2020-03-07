@@ -16,8 +16,9 @@ Acenoid is still in development. Currently, I only have a prototype, which you c
 # Compilation
 Make sure you have Release x86 for building, or you will get errors!
 <p align="left">
-  <img src="https://i.gyazo.com/54a61f7a7295a2ed26bcd6242ea0682b.png" width="350" title="">
+  <img src=https://i.gyazo.com/54a61f7a7295a2ed26bcd6242ea0682b.png" width="350" title="">
 </p>
+
 # What is ROBLOX?
 ROBLOX is an online virtual playground and workshop, where people of all ages can safely interact, create, have fun, and learn. It’s unique in that practically everything on ROBLOX is designed and constructed by members of the community. ROBLOX is designed for 13 to 18 year olds, but it is open to people of all ages. Each player starts by choosing an avatar and giving it an identity. They can then explore ROBLOX — interacting with others by chatting, playing games, or collaborating on creative projects. Each player is also given their own piece of undeveloped real estate along with a virtual toolbox with which to design and build anything — be it a navigable skyscraper, a working helicopter, a giant pinball machine, a multiplayer “Capture the Flag” game or some other, yet-to-be-dreamed-up creation. There is no cost for this first plot of virtual land. By participating and by building cool stuff, ROBLOX members can earn specialty badges as well as ROBLOX currency (“Robux”). In turn, they can shop the online catalog to purchase avatar clothing and accessories as well as premium building materials, interactive components, and working mechanisms.
 # Powered by C#
