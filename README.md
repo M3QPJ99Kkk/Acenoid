@@ -13,7 +13,11 @@ Powerful open-source ROBLOX exploit with triple API functionality, using:
 
 # About Acenoid
 Acenoid first release is finished! You can find it in the releases: https://github.com/yeetmydog/Acenoid/releases/
-Development was tiring and fun. I find the result amazing!
+Development was definitely worth it! You can download it if you want, or modify it, or just simply make it your own!
+<p align="right">
+  <img src="https://i.gyazo.com/51900ed9cf71e7f602c131d86b110f9e.png" width="650" title="">
+</p>
+
 # Building and troubleshooting
 Make sure you have Release x86 for building, or you will get errors!
 <p align="left">
