@@ -5,18 +5,16 @@
 </p>
 
 Powerful open-source ROBLOX exploit with triple API functionality, using:
-
--- Acenoid 2.5 --
+<h2>Acenoid 2.5</h2>
 <li><a href="https://wearedevs.net/d/Exploit%20APIv2">WeAreDevs API v2</a></li>
 <li><a href="https://mega.nz/#!D75jxYwC!uM4EFMjTHNEBiS5obwwfQiwG78e6--S3WQDxa2pYogw"><del>Bloxsploits API</del></a></li>
 <li><a href="https://easyexploits.com/?exploit=easyexploitsapi">EasyExploits API</a></li>
 <li><a href="https://github.com/rakion99/Axon">Axon API</a></li>
 
--- Acenoid 2.6 --
+<h2>Acenoid 2.6</h2>
 <li><a href="https://wearedevs.net/d/Exploit%20APIv2">WeAreDevs API v2</a></li>
-<li><a href="https://mega.nz/#!D75jxYwC!uM4EFMjTHNEBiS5obwwfQiwG78e6--S3WQDxa2pYogw"><del>Bloxsploits API</del></a></li>
 <li><a href="https://easyexploits.com/?exploit=easyexploitsapi">EasyExploits API</a></li>
-<li><a href="https://github.com/rakion99/Axon"><del>Axon API</del></a></li>
+<li><a href="https://clubdark.net/forum/d/253-club-dark-api-doc">Club Dark API</a></li>
 
 # About Acenoid
 Acenoid first release is finished! You can find it in the releases: https://github.com/yeetmydog/Acenoid/releases/
